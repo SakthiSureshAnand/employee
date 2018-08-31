@@ -1,0 +1,9 @@
+1)Auto FIll -> Phone number , email , name 
+
+OUTPUT => Grid (Grid Editable only Admin role)
+Name  , email id , phone number , skills , interviewer , date , Status 
+
+
+Interviewer Screen 
+1) Name , email , Phone number , skills
+2) On screen Generated pwd needs to show , 

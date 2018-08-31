@@ -1,0 +1,42 @@
+[
+  {
+    "userId": 119,
+    "emailId": "lalitha.m85@wipro.com",
+    "firstName": "lalitha",
+    "lasttName": "Murugesan",
+    "usersCount": 5,
+    "entryTime": "2018-05-24",
+    "exitTime": null,
+    "visitorType": "EXTERNAL",
+    "visitorPurpose": "VISIT",
+    "activeFlag": "Y",
+    "userStatus": "IN"
+  },
+  {
+    "userId": 120,
+    "emailId": "lalitha.m85@wipro.com",
+    "firstName": "lalitha",
+    "lasttName": "Murugesan",
+    "usersCount": 5,
+    "entryTime": "2018-05-24",
+    "exitTime": null,
+    "visitorType": "EXTERNAL",
+    "visitorPurpose": "VISIT",
+    "activeFlag": "Y",
+    "userStatus": "IN"
+  },
+  {
+    "userId": 121,
+    "emailId": "lalitha.m85@wipro.com",
+    "firstName": "lalitha",
+    "lasttName": "Murugesan",
+    "usersCount": 5,
+    "entryTime": "2018-05-24",
+    "exitTime": null,
+    "visitorType": "EXTERNAL",
+    "visitorPurpose": "VISIT",
+    "activeFlag": "Y",
+    "userStatus": "IN"
+  }
+
+]
